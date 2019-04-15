@@ -1,4 +1,4 @@
-// lab1-part1.js
+// lab1.js
 
 function reverseString(str) {
     return str.split("").reverse().join("");
